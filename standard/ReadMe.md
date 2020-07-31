@@ -12,4 +12,14 @@ The prototype standard development team are:
 - Jamie Whyte [@northernjamie](https://twitter.com/northernjamie) - Data specialist
 - Julian Tait [@julianlstar](https://twitter.com/Julianlstar) - Project delivery
 
+Update
+-----------
+
+In July 2020 the [Open Data Institute (ODI)](https://theodi.org/) funded [Your Dsposal](https://dsposal.uk/articles/introducing-your-dsposal/) to build upon of the KnoWaste prototype open standard to collect, standardise and share data to inform the public, improve recycling rates and reduce waste crime.
+
+The development team for this second phase are:
+- Jamie Whyte [@northernjamie](https://twitter.com/northernjamie) - Data specialist
+- Tom Passmore [@eldo36](https://twitter.com/eldo36) - Data specialist
+
 If you would like to know more about the development of the data standard, how to get involved then please contact: hello@opendatamanchester.org.uk
+
