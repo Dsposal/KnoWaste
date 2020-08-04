@@ -21,7 +21,7 @@ In case you are wondering what open data is:
 
 If you want to know more then get involved by:
 - intereacting with Github
-- find me on Twitter ([@Eldo36](https://twitter.com/eldo36)
+- find me on Twitter ([@Eldo36](https://twitter.com/eldo36))
 
 Thank you in advance for your help,
 
